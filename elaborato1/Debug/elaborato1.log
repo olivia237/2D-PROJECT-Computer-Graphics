@@ -1,0 +1,12 @@
+﻿  elaborato1.cpp
+C:\Users\Olivia\Desktop\computer Grafics\elaborato1\elaborato1\elaborato1.cpp(33,10): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\elaborato1\elaborato1\elaborato1.cpp(33,37): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\elaborato1\elaborato1\elaborato1.cpp(126,14): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\elaborato1\elaborato1\elaborato1.cpp(202,14): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\elaborato1\elaborato1\elaborato1.cpp(270,14): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\elaborato1\elaborato1\elaborato1.cpp(293,14): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\elaborato1\elaborato1\elaborato1.cpp(597,14): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\elaborato1\elaborato1\elaborato1.cpp(598,14): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\elaborato1\elaborato1\elaborato1.cpp(614,25): warning C4244: 'argomento': conversione da 'float' a 'GLsizei'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\elaborato1\elaborato1\elaborato1.cpp(620,22): warning C4244: 'argomento': conversione da 'float' a 'GLsizei'. Possibile perdita di dati.
+  elaborato1.vcxproj -> C:\Users\Olivia\Desktop\computer Grafics\elaborato1\Debug\elaborato1.exe
